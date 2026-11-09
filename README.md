@@ -1,9 +1,9 @@
-# Hi, I'm Chaitanya 👋
+# Hi, I'm Chaitanya 
 
 **Aspiring ML Engineer | Python | Data Science | Automation**
 
 📍 Jaipur, Rajasthan, India
-🎓 Student at Manipal University Jaipur
+ Student at Manipal University Jaipur
 
 ## About Me
 
