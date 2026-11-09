@@ -18,7 +18,7 @@ I'm a Python developer with a growing interest in machine learning and data scie
 
 ## Projects
 
-🏠 **[HOUSE_PREDICTION](https://github.com/chaitanya-12107/HOUSE_PREDICTION)**: a machine learning project that predicts house prices using Python.
+🏠 **[HOUSE_PREDICTION](https://github.com/chaitanya-12107/HOUSE_PREDICTION)**: predicts house prices using linear regression in Python.
 
 🚧 **[memorilla](https://github.com/chaitanya-12107/memorilla)**: a new Python project currently in development.
 
